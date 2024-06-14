@@ -1,0 +1,1 @@
+"""after data ingestion we do data transformation like one hot coding , catgorise data to nummerical data"""
